@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1764926082388,
+    "description" : "The flow to store reversinglabs data flow.",
+    "identifier" : "reversinglabs",
+    "lastModifiedTimestamp" : 1764926082388,
+    "name" : "reversinglabs",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
